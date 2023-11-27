@@ -1,5 +1,5 @@
 export const labelClass = 'text-sm flex mt-4 text-white';
-export const inputClass = 'mt-2 mb-3 bg-gray-50 rounded-lg w-full p-2.5';
+export const inputClass = 'mt-2 mb-3 bg-gray-100 rounded-lg w-full p-2.5';
 export const errorClass = 'text-sm text-center text-red-500';
 export const buttonClass = 'hover:bg-violet-500 bg-violet-400 rounded-lg px-10 py-1 text-white text-center mt-10 flex mx-auto';
 export const linkClass = 'text-violet-300 hover:text-violet-500 mt-3 flex justify-center';
