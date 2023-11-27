@@ -1,0 +1,10 @@
+export const labelClass = 'text-sm flex mt-4 text-white';
+export const inputClass = 'mt-2 mb-3 bg-gray-50 rounded-lg w-full p-2.5';
+export const errorClass = 'text-sm text-center text-red-500';
+export const buttonClass = 'hover:bg-violet-500 bg-violet-400 rounded-lg px-10 py-1 text-white text-center mt-10 flex mx-auto';
+export const linkClass = 'text-violet-300 hover:text-violet-500 mt-3 flex justify-center';
+export const bodyClass = " p-10  flex flex-col bg-black shadow md:rounded-lg sm:rounded-none md:ml-32 md:mr-32 lg:ml-64 lg:mr-64 "
+export const titleClass = " text-center text-white font-semibold text-2xl mb-4"
+export const deleteButtonClass = 'hover:bg-red-500 bg-red-400 rounded-md px-3 text-white text-center ml-8 ';
+export const editButtonClass = 'hover:bg-violet-500 bg-violet-400 rounded-md px-3 text-white text-center mt-1';
+export const logoutButtonClass = 'hover:bg-red-600 bg-red-500 rounded-lg px-10 py-1 text-white text-center mt-4 flex mx-auto';
